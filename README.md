@@ -9,5 +9,6 @@ Git es un sistema de control de versiones distribuido, utilizado principalmente 
 Después de instalar Git, configura tu nombre de usuario y correo electrónico:
 
 ``git config --global user.name "Tu Nombre" ``
+
 ``git config --global user.email "tuemail@example.com" ``
 
