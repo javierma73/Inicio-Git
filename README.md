@@ -7,7 +7,10 @@ Git es un sistema de control de versiones distribuido, utilizado principalmente 
  - Linux: Usa el gestor de paquetes de tu distribución, por ejemplo, en Debian/Ubuntu: ``sudo apt-get install git``
 ### **Configuración Inicial**
 Después de instalar Git, configura tu nombre de usuario y correo electrónico:
-``git config --global user.name "Tu Nombre"
-  git config --global user.email "tuemail@example.com"
+
+``
+git config --global user.name "Tu Nombre"
+git config --global user.email "tuemail@example.com"
+
 ``
 
