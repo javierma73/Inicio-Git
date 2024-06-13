@@ -4,4 +4,4 @@ Git es un sistema de control de versiones distribuido, utilizado principalmente 
 - **Instalación:**
 - Windows: Descarga e instala Git desde Git for [Windows](https://gitforwindows.org/)
 - macOS: Usa Homebrew: 'brew install git.'
-- Linux: Usa el gestor de paquetes de tu distribución, por ejemplo, en Debian/Ubuntu: sudo apt-get install git.
+- Linux: Usa el gestor de paquetes de tu distribución, por ejemplo, en Debian/Ubuntu: ``sudo apt-get install git.``
